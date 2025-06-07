@@ -1,0 +1,6 @@
+[package]
+name = "git_snapshot_rust"
+version = "0.1.0"
+edition = "2021"
+chrono = "0.4"
+[dependencies]
